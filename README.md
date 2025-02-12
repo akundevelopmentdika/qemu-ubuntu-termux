@@ -1,8 +1,5 @@
 #  Get Started !!!
-## Copy Command
-
 Copy and paste the following command to clone the repository:
-
 ```bash
 git clone https://github.com/username/repository.git
 ```
